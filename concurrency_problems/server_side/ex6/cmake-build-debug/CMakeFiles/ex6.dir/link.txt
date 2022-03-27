@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/ex6.dir/main.c.o -o ex6.exe -Wl,--out-implib,libex6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
