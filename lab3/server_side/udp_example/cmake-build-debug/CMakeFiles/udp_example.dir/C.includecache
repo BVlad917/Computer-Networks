@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Facultate/Anul 2, Semestrul 1/Computer Networks/partial_preparation/lab3/udp_example/main.c
+stdio.h
+-
+arpa/inet.h
+-
+string.h
+-
+
