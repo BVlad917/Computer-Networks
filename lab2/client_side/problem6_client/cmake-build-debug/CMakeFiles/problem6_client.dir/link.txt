@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/problem6_client.dir/main.c.o -o problem6_client 
