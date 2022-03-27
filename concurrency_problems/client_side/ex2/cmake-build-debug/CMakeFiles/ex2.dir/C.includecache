@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vladbogdan/CLionProjects/practical_preparation/lab2/ex2/client.c
+stdio.h
+-
+string.h
+-
+netinet/in.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+stdlib.h
+-
+time.h
+-
+

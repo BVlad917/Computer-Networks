@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ex2.dir/server.c.o CMakeFiles/ex2.dir/client.c.o -o ex2 
