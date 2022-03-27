@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/lab2_problem4_server.dir/main.c.o -o lab2_problem4_server.exe -Wl,--out-implib,liblab2_problem4_server.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
