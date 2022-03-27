@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/udp_example.dir/main.c.o -o udp_example 
