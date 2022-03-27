@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Facultate/Anul 2, Semestrul 1/Computer Networks/partial_preparation/lab2/ex2/main.c
+stdio.h
+-
+sys/unistd.h
+-
+
