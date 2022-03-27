@@ -1,0 +1,3 @@
+/home/vladbogdan/CLionProjects/practical_preparation/lab2/ex5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vladbogdan/CLionProjects/practical_preparation/lab2/ex5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vladbogdan/CLionProjects/practical_preparation/lab2/ex5/cmake-build-debug/CMakeFiles/ex5.dir
