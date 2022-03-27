@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vladbogdan/CLionProjects/practical_preparation/lab3/broadcast_example/main.c
+stdio.h
+-
+netinet/in.h
+-
+string.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+

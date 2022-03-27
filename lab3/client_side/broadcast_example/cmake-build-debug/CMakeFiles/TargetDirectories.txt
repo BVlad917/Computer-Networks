@@ -1,0 +1,3 @@
+/home/vladbogdan/CLionProjects/practical_preparation/lab3/broadcast_example/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vladbogdan/CLionProjects/practical_preparation/lab3/broadcast_example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vladbogdan/CLionProjects/practical_preparation/lab3/broadcast_example/cmake-build-debug/CMakeFiles/broadcast_example.dir
